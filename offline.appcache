@@ -5,11 +5,8 @@ CACHE MANIFEST
 /icon.png
 /LICENSE
 /README.md
-/system/style/browser.css
-/system/style/startpage.css
-/system/style/browser_nm.css
-/system/style/startpage_nm.css
-/system/script/browser.js
+/system/style/manager.css
+/system/script/manager.js
 /system/script/jquery.min.js
 /system/script/jquery.min.map
 /system/images/left.png
@@ -17,12 +14,6 @@ CACHE MANIFEST
 /system/images/menu.png
 /system/images/reload.png
 /system/images/cancel.png
-/system/images/app-img/facebook.png
-/system/images/app-img/gmail.png
-/system/images/app-img/twitter.png
-/system/images/app-img/9gag.png
-/system/images/app-img/youtube.png
-/system/images/app-img/wikipedia.png
 /system/fonts/font.css
 /system/fonts/OpenSans-Regular-webfont.eot
 /system/fonts/OpenSans-Regular-webfont.woff
